@@ -19,8 +19,11 @@ const index = () => {
           and Wales with its company number 15508041. Our registered office is
           at Sophia House, 28 Cathedral Road, Cardiff, Wales, CF11 9LJ. We are
           the “Promotor” of the prize draw (“Draw”) operated at
-          www.beyondcompetitions.com (“the “Website”) which means that we are
-          responsible for making sure it runs properly and fairly.
+          <a href="https://www.beyondcompetitions.com">
+            www.beyondcompetitions.com
+          </a>{" "}
+          (“the “Website”) which means that we are responsible for making sure
+          it runs properly and fairly.
         </p>
 
         <p>

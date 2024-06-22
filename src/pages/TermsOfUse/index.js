@@ -13,7 +13,10 @@ const index = () => {
           These terms of use (“Terms”) together with all documents referred to
           herein govern the relationship between you and Beyond Competitions Ltd
           (“we”, “us”, “our” or “Beyond Competitions”) under which our services
-          are provided by us through our Website at www.beyondcompetitions.com
+          are provided by us through our Website at{" "}
+          <a href="https://www.beyondcompetitions.com">
+            www.beyondcompetitions.com
+          </a>{" "}
           (“Website”).
         </p>
 

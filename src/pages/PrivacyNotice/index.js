@@ -22,12 +22,14 @@ const index = () => {
           We respect your privacy and are committed to protecting your personal
           data. This privacy notice will inform you as to how we collect,
           process and look after your personal data when you visit our website
-          www.beyondcompetitions.com (“Website”) (regardless of where you visit
-          it from), use our services and purchase our products (“Services”). It
-          will also tell you about your privacy rights and how the law protects
-          you. We collect, use and are responsible for certain personal data
-          about you. When we do so we are subject to the applicable Data
-          Protection Legislation.
+          <a href="https://www.beyondcompetitions.com">
+            www.beyondcompetitions.com
+          </a>{" "}
+          (“Website”) (regardless of where you visit it from), use our services
+          and purchase our products (“Services”). It will also tell you about
+          your privacy rights and how the law protects you. We collect, use and
+          are responsible for certain personal data about you. When we do so we
+          are subject to the applicable Data Protection Legislation.
         </p>
 
         <p className="textContent mt-6">
@@ -637,6 +639,377 @@ const index = () => {
         <p className="textContent my-4">
           As part of the Services we provide to you, we may have to share your
           personal data with third parties such as:
+        </p>
+
+        <ul className="list-disc my-6">
+          <li className="textContent ml-5">Third party prize providers;</li>
+          <li className="textContent ml-5">
+            Third parties as part of our service to you such as self-employed
+            contractors, payment processors, delivery and courier companies,
+            agents or IT providers;
+          </li>
+          <li className="textContent ml-5">
+            We may use third parties to assist us with our marketing, social
+            media and to keep in touch with you;
+          </li>
+          <li className="textContent ml-5">
+            We may share your information on our social media pages such as
+            Facebook and Instagram;
+          </li>
+          <li className="textContent ml-5">
+            the police or other law enforcement agencies if we have to by law or
+            court order;
+          </li>
+          <li className="textContent ml-5">
+            professional advisers including lawyers, bankers, auditors,
+            accountants and insurers;
+          </li>
+          <li className="textContent ml-5">
+            HM Revenue & Customs, regulators and other authorities; and
+          </li>
+          <li className="textContent ml-5">
+            Third parties to whom we may choose to sell, transfer, or merge all
+            or parts of our company, business or our assets. Alternatively, we
+            may seek to acquire other businesses or merge with them. If a change
+            happens to our business, then the new owners may use your personal
+            data in the same way as set out in this privacy notice.
+          </li>
+        </ul>
+
+        <p className="textContent my-4">
+          Where any of your personal data is required for such a purpose, we
+          will take all reasonable steps to ensure that your personal data will
+          be handled safely, securely, and in accordance with your rights, our
+          obligations, and the obligations of the third party under the Data
+          Protection Legislation. This type of external data processing is
+          always subject to contractual assurances that personal data will be
+          kept securely and used only in accordance with our specific
+          directions.
+        </p>
+
+        <p className="textContent my-4">
+          We will not misuse your personal data for any other purpose other than
+          as set out in this Privacy Notice.
+        </p>
+
+        <h3 className="heading mt-6">INTERNATIONAL TRANSFERS</h3>
+
+        <p className="textContent my-4">
+          Your information will be held at our offices, by our service providers
+          and in our IT provider’s data centres. In order for us to provide our
+          Services to you, from time to time we may have to share your personal
+          data outside the UK and European Economic Area (EEA). This could
+          include where our service providers or its data centres are based
+          outside the UK and EEA (for example our IT cloud services), if you are
+          based outside the UK or EEA, if there is an international element to
+          the Services we are providing or if one of our employees need to
+          access our data remotely from outside the UK or EEA.
+        </p>
+
+        <p className="textContent my-4">
+          In accordance with the Data Protection Legislation, we will only
+          transfer your personal data to a country outside the UK /EEA where:
+        </p>
+
+        <ul className="list-disc my-6">
+          <li className="textContent ml-5">
+            in the case of transfers subject to UK data protection law, the UK
+            government has decided the particular country ensures an adequate
+            level of protection of personal data (known as an ‘adequacy
+            regulation’) further to Article 45 of the UK GDPR. A list of
+            countries the UK currently has adequacy regulations in relation to
+            is available here,
+            https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/#adequacy;{" "}
+          </li>
+          <li className="textContent ml-5">
+            in the case of transfers subject to EEA data protection laws, the
+            European Commission has decided that the particular country ensures
+            an adequate level of protection of personal data (known as an
+            ‘adequacy decision’) further to Article 45 of the EU GDPR. A list of
+            countries the European Commission has currently made adequacy
+            decisions in relation to is available here,
+            https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en;
+          </li>
+          <li className="textContent ml-5">
+            there are appropriate safeguards in place, together with enforceable
+            rights and effective legal remedies for you, or
+          </li>
+          <li className="textContent ml-5">
+            a specific exception applies under the relevant Data Protection
+            Legislation. Where we transfer your personal data outside the UK we
+            do so on the basis of an adequacy regulation. In the event we cannot
+            or choose not to continue to rely on either of those mechanisms at
+            any time we will not transfer your personal data outside the UK
+            unless we can do so on the basis of an alternative mechanism or
+            exception provided by UK data protection law and reflected in an
+            update to this privacy notice.
+          </li>
+        </ul>
+
+        <h3 className="heading mt-6">DATA SECURITY</h3>
+
+        <p className="textContent my-4">
+          We have put in place appropriate security measures to prevent your
+          personal data from being accidentally lost, used or accessed in an
+          unauthorised way, altered or disclosed. In addition, we limit access
+          to your personal data to those employees, agents, contractors and
+          other third parties who have a business need to know. They will only
+          process your personal data on our instructions, and they are subject
+          to a duty of confidentiality.
+        </p>
+
+        <p className="textContent my-4">
+          We have put in place procedures to deal with any suspected personal
+          data breach and will notify you and any applicable regulator of a
+          breach where we are legally required to do so.
+        </p>
+
+        <p className="textContent my-4">
+          Notwithstanding the security measures that we take, it is important to
+          remember that the transmission of data via the internet may not be
+          completely secure and that you are advised to take suitable
+          precautions when transmitting to us data via the internet and you take
+          the risk that any sending of that data turns out to be not secure
+          despite our efforts.
+        </p>
+
+        <p className="textContent my-4">
+          If we give you a password upon registration and use of the Website,
+          you must keep it confidential. Please don't share it.
+        </p>
+
+        <h3 className="heading mt-6">
+          HOW LONG WILL YOU USE MY PERSONAL DATA FOR?
+        </h3>
+
+        <p className="textContent my-4">
+          To determine the appropriate retention period for personal data, we
+          consider the amount, nature, and sensitivity of the personal data, the
+          potential risk of harm from unauthorised use or disclosure of your
+          personal data, the purposes for which we process your personal data
+          and whether we can achieve those purposes through other means, and the
+          applicable legal requirements.
+        </p>
+
+        <p className="textContent my-4">
+          We will only retain your personal data for as long as necessary to
+          fulfil the purposes we collected it for, including for the purposes of
+          satisfying any legal, regulatory, accounting, or reporting
+          requirements.
+        </p>
+
+        <p className="textContent my-4">
+          For more details of our specific retention periods, please contact us.
+        </p>
+
+        <h3 className="heading mt-6">THIRD-PARTY LINKS </h3>
+
+        <p className="textContent my-4">
+          This Website may include links to third-party websites, plug-ins and
+          applications which may include social media. Clicking on those links
+          or enabling those connections may allow third parties to collect or
+          share data about you. Please read third party’s privacy notices for
+          further information relating to the collection or sharing of your
+          data. We do not necessarily control these third-party websites and are
+          not responsible for their privacy statements. When you leave our
+          Website, we encourage you to read the privacy notice of every website
+          you visit.
+        </p>
+
+        <h3 className="heading mt-6">DOWNLOADS</h3>
+
+        <p className="textContent my-4">
+          Any downloadable documents, files or media made available on this
+          Website are provided to users at their own risk. While all precautions
+          have been undertaken to ensure only genuine downloads are available,
+          users are advised to verify their authenticity using third-party
+          anti-virus software or similar applications. We accept no
+          responsibility for third-party downloads and downloads provided by
+          external third-party websites and would advise users to verify their
+          authenticity prior to proceeding.
+        </p>
+
+        <h3 className="heading mt-6">YOUR LEGAL RIGHTS </h3>
+
+        <p className="textContent my-4">
+          Under certain circumstances, you have rights under the Data Protection
+          Legislation in relation to your personal data. You are entitled to:
+        </p>
+
+        <ul className="list-disc my-6">
+          <li className="textContent ml-5">
+            request access to your personal data (commonly known as a “data
+            subject access request”). This enables you to receive a copy of the
+            personal data we hold about you and to check that we are lawfully
+            processing it.
+          </li>
+          <li className="textContent ml-5">
+            have your data corrected, updated or amended. Please note that we
+            may ask you to verify any changes to your data such as a proof of
+            change of address or name;
+          </li>
+          <li className="textContent ml-5">
+            Request erasure of your personal data. This enables you to ask us to
+            delete or remove personal data where there is no good reason for us
+            continuing to process it
+          </li>
+          <li className="textContent ml-5">
+            Object to and/or restrict processing of your personal data where we
+            are relying on a legitimate interest (or those of a third party) and
+            there is something about your particular situation which makes you
+            want to object to processing on this ground as you feel it impacts
+            on your fundamental rights and freedoms. Please note that in some
+            instances we may have to stop providing our Services to you but we
+            will notify you if this is the case.
+          </li>
+          <li className="textContent ml-5">
+            Request the transfer of your personal data to you or to a third
+            party, for example if you chose to use another business to provide
+            Services to you.
+          </li>
+          <li className="textContent ml-5">
+            Withdraw consent at any time where we are relying on consent to
+            process your personal data. However, this will not affect the
+            lawfulness of any processing carried out before you withdraw your
+            consent.
+          </li>
+        </ul>
+
+        <p className="textContent my-4">
+          There are some exceptions to the above rights.{" "}
+        </p>
+
+        <p className="textContent my-4 ml-5">
+          • <strong>Right to withdraw consent</strong>. In the limited
+          circumstances where you have provided your consent to the collection,
+          processing and transfer of the personal data referred to above, you
+          may withdraw that consent at any time. However, this will not affect
+          the lawfulness of any processing carried out before you withdraw your
+          consent, or to processing carried out on other legal grounds. If you
+          withdraw your consent, we may not be able to provide certain products
+          or services to you. We will advise you if this is the case at the time
+          you withdraw your consent.
+        </p>
+
+        <p className="textContent my-4">
+          All the above requests will be forwarded to the relevant party should
+          there be a third party involved in the processing of your personal
+          data.
+        </p>
+
+        <p className="textContent my-4">
+          We try to respond to all legitimate requests within one month.
+          Occasionally it may take us longer than a month if your request is
+          particularly complex or you have made a number of requests. In this
+          case, we will notify you and keep you updated.
+        </p>
+
+        <p className="textContent my-4">
+          If you wish to exercise any of the rights set out above, please
+          contact us at [ ] You will not normally have to pay a fee for this,
+          but we will let you know if we feel that it is fair to charge a fee,
+          for example if your request is clearly unfounded, repetitive or
+          excessive. Alternatively, we may refuse to comply with your request in
+          these circumstances and will let you know if we feel that this is the
+          case.
+        </p>
+
+        <h3 className="heading mt-6">COMPLAINTS OR CONCERNS</h3>
+
+        <p className="textContent my-4">
+          If you have any queries or concerns about the way we process your
+          personal data then please contact us at [ ]. We hope that we can
+          resolve any concerns for you, but if you wish to take your complaint
+          further you can contact the Information Commissioners Office (ICO) and
+          further information can be found on their website{" "}
+          <a href="https://www.ico.org.uk">www.ico.org.uk</a>
+        </p>
+
+        <h3 className="heading mt-6">COOKIES </h3>
+
+        <p className="textContent my-4">
+          You can set your browser to refuse all or some browser cookies, or to
+          alert you when websites set or access cookies. If you disable or
+          refuse cookies, please note that some parts of this Website may become
+          inaccessible or not function properly. For more information about the
+          cookies we use, please see our cookie policy below.
+        </p>
+
+        <h3 className="heading mt-6">INFORMATION ABOUT OUR USE OF COOKIES</h3>
+
+        <p className="textContent my-4">
+          Our Website uses cookies to distinguish you from other users of our
+          Website. This helps us to provide you with a good experience when you
+          browse our Website and also allows us to improve our site.
+        </p>
+
+        <p className="textContent my-4">
+          A cookie is a small file of letters and numbers that we store on your
+          browser or the hard drive of your computer if you agree. Cookies
+          contain information that is transferred to your computer’s hard drive.
+        </p>
+
+        <p className="textContent my-4">
+          For example, we may monitor how many times you visit the Website,
+          which pages you go to, traffic data, location data and the originating
+          domain name of your internet service provider. This information helps
+          us to build a profile of our users. Some of this data will be
+          aggregated or statistical, which means that we will not be able to
+          identify you individually.
+        </p>
+
+        <p className="textContent my-4">
+          For further information on cookies generally, including how to control
+          and manage them, visit the guidance on cookies published by the UK
+          Information Commissioner’s Office,{" "}
+          <a href="https://www.allaboutcookies.org">www.allaboutcookies.org</a>
+        </p>
+
+        <h3 className="heading mt-6">
+          Consent to use cookies and changing settings
+        </h3>
+
+        <p className="textContent my-4">
+          We will ask for your consent to place cookies or other similar
+          technologies on your device, except where they are essential for us to
+          provide you with a service that you have requested.
+        </p>
+
+        <p className="textContent my-4">
+          You can withdraw any consent to the use of cookies or manage any other
+          cookie preferences by clicking on the cookie icon at the bottom left
+          of any page on our Website. You can then untick boxes as appropriate
+          to the mechanism. It may be necessary to refresh the page for the
+          updated settings to take effect.
+        </p>
+
+        <p className="textContent my-4">
+          You can find more information about the individual cookies we use and
+          the purposes for which we use them at the following link
+          <a href="https://www.prize-draw.com/cookies/">
+            https://www.prize-draw.com/cookies/
+          </a>
+        </p>
+
+        <p className="textContent my-4">
+          The Cookies may store your IP address and user agent (operating system
+          and browser) and geographical location.
+        </p>
+
+        <p className="textContent my-4">
+          You block cookies by activating the setting on your browser that
+          allows you to refuse the setting of all or some cookies. However, if
+          you use your browser settings to block all cookies (including
+          essential cookies) you may not be able to access all or parts of our
+          Website.
+        </p>
+
+        <p className="textContent my-4">
+          Please note that other third parties (including, for example,
+          advertising networks and providers of external services like web
+          traffic analysis services) may also use cookies, over which we have no
+          control. These cookies are likely to be analytical/performance cookies
+          or targeting cookies.
         </p>
       </div>
     </div>
