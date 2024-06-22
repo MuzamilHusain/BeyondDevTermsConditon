@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+.main-container {
+  @apply max-w-[900px] mx-auto w-full p-4;
+}
+
+.heading,
+span {
+  @apply text-lg font-bold text-black;
+}
+
+.point {
+  @apply text-base font-bold text-black mt-6;
+}
+
+.list {
+  @apply text-sm font-medium my-4 ml-5;
+}
+
+.textContent {
+  @apply text-[15px] text-black;
+}
+
+.light-border {
+  @apply border-solid border border-gray-400;
+}
